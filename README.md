@@ -75,6 +75,11 @@ Otherwise, you’ll only see the results in your terminal.
 
 ---
 
+## 📖 Usage
+
+For detailed usage instructions and examples, see the [Usage Guide](usage.md).
+
+---
 
 
 ## 📜 License
