@@ -102,5 +102,12 @@ Otherwise, you’ll only see the results in your terminal.
   ```
   
   📘 Full Documentation: [View Usage Guide](./usage.md)
+---
+
+
+## 📜 License
+
+MIT License © 2025  
+Crafted with ❤️ by sh4dowkey
 
 
