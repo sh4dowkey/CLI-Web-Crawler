@@ -75,34 +75,6 @@ Otherwise, you’ll only see the results in your terminal.
 
 ---
 
-## 🌐 Advanced Features
-
-- ✅ `robots.txt` parsing
-- 🔍 Keyword detection
-- 🌐 Internal/external link filtering
-- 💾 Save to file
-- 🎨 GUI support (coming soon)
-
----
-
-## 👨‍💻 Developer Notes
-
-- Written in Python 3
-- Uses `requests`, `beautifulsoup4`, and `tqdm`
-- Project structure:
-  ```
-  ├── cli.py
-  ├── crawler/
-  │   ├── __init__.py
-  │   ├── core.py
-  │   ├── fetcher.py
-  │   └── utils.py
-  ├── README.md
-  └── DOCUMENTATION.md
-  ```
-  
-  📘 Full Documentation: [View Usage Guide](./usage.md)
----
 
 
 ## 📜 License
