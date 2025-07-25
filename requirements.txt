@@ -1,7 +1,0 @@
-colorama
-beautifulsoup4
-requests
-tqdm
-fake-useragent
-urllib3
-rich
