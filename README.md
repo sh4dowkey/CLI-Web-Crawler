@@ -62,6 +62,12 @@ python cli.py https://example.com --output result.txt
 python cli.py https://example.com --internal-only
 ```
 
+
+### Crawl only external links:
+```bash
+python cli.py https://example.com --external-only
+```
+
 ### Verbose mode:
 ```bash
 python cli.py https://example.com --verbose
